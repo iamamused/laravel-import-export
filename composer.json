@@ -16,7 +16,7 @@
         "jacopo/bootstrap-3-table-generator": "dev-master"
     },
     "require-dev": {
-        "laravel/framework": "~4",
+        "laravel/framework": "~5",
         "mockery/mockery": "dev-master"
     },
     "autoload": {
